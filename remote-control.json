@@ -1,9 +1,9 @@
 {
-  "systemDisabled": false,
-  "disabledMessage": "This software has been temporarily disabled by the administrator (Alam Ar Rafi). Please contact Alam Ar Rafi to restore access.",
+  "systemDisabled": true,
+  "disabledMessage": "This software has been temporarily disabled by the administrator (Alam Ar Rafi). Please sign in via Master Control to re-enable access.",
   "graceHours": 24,
   "lockBorderPrice": false,
   "lockExports": false,
   "lockImports": false,
-  "updatedAt": "2026-11-20T00:00:00Z"
+  "updatedAt": "2026-11-21T07:01:13.858Z"
 }
